@@ -1,5 +1,10 @@
 ## APP Basic Data Exploration Machine Learning
 
+## Launch the web app:  
+
+[![Streamlit App](https://share.streamlit.io/cristinaiglesias/app-basic-ml/main/main.py)
+
+
 ## Resources
 
      https://streamlit.io/
