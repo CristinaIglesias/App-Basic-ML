@@ -2,7 +2,7 @@
 
 ## Launch the web app:  
 
-[![Streamlit App](https://share.streamlit.io/cristinaiglesias/app-basic-ml/main.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/cristinaiglesias/app-basic-ml/main.py)
 
 ### To recreate this web app on your own computer, do the following.
 
